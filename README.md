@@ -1,4 +1,8 @@
-# Planvoller GmbH — Website
+# Planvoller GmbH — Website-Entwurf
+
+Entwurf für die Baufirma meines Vaters. Privat gebaut, nicht beauftragt und nicht im Einsatz.
+
+- **Live ansehen:** https://planvoller.vercel.app/
 
 Unternehmenswebsite der Planvoller GmbH (Einfamilienhausbau · Würselen, Kerpen,
 Bensberg). Statisch, ohne Build-Schritt, ohne externe Abhängigkeiten.
@@ -67,3 +71,11 @@ Perspektive.
 4. Optional: echte Fotos statt Renderings, sobald Projektfotografie vorliegt.
 5. **Bildrechte prüfen**: Für die verwendeten Renderings müssen Nutzungsrechte
    für die Website-Veröffentlichung vorliegen (Lizenz/Quelle dokumentieren).
+
+## Wie ich gearbeitet habe
+
+Idee und Ziel kamen von mir. Im Planungsmodus von Claude Code habe ich mit Claude Lösungswege besprochen und einen Plan festgelegt, den Claude dann umgesetzt hat. Jedes Ergebnis habe ich selbst geprüft, Änderungen vorgegeben und technische Fragen mit Claude geklärt. Zur Qualitätssicherung hat Claude seine eigene Arbeit geprüft, und ich habe sie zusätzlich in einem separaten Chat gegenprüfen lassen.
+
+**Werkzeuge:** Claude Code (Planung und Umsetzung), Claude Cowork (Verknüpfungen und Weiterarbeit), zusätzliche Skills und Plugins für Claude (vor allem für Design und Planung), Higgsfield (KI-Video des Hauses), GitHub, Vercel.
+
+Portfolio-Projekt von Kira Moewes · https://kira-moewes.github.io/portfolio/
